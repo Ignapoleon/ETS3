@@ -2,7 +2,9 @@ package ETS3;
 
 public class CCuenta {
 
-
+/**
+ * IGNACIO TOLOSA GARCIA COMENTARIO AÑADIDO PARA ACTUALIZAR
+ */
     private String nombre;
     private String cuenta;
     private double saldo;
